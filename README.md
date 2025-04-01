@@ -17,5 +17,5 @@ A multilingual AI chatbot for Vidyashilp University built with Google Gemini LLM
 - Google Translate
 - Gmail SMTP
 
-## Demo video
-  https://www.youtube.com/watch?v=aTvEhvBkqiY
+##  Demo Video
+[![Watch on YouTube](https://img.youtube.com/vi/aTvEhvBkqiY/0.jpg)](https://www.youtube.com/watch?v=aTvEhvBkqiY)
